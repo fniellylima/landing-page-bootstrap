@@ -64,4 +64,10 @@
 
 .costumer_sessao_contato_form>form>button{
     margin-top: 15px;
+
+}
+
+.costumer_sessao_endereco{
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
