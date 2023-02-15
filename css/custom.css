@@ -71,3 +71,10 @@
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+.costumer_footer{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: aliceblue;
+}
